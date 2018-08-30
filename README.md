@@ -1,9 +1,11 @@
 ### 交互流程图
-https://github.com/qianzhangdu/bear-web/blob/master/src/main/resources/doc/flow.jpg
+![图片说明1](https://github.com/qianzhangdu/bear-web/blob/master/src/main/resources/doc/flow.jpg)
+
 
 
 ### 数据结构
-https://github.com/qianzhangdu/bear-web/blob/master/src/main/resources/doc/db.jpg
+![图片说明1](https://github.com/qianzhangdu/bear-web/blob/master/src/main/resources/doc/db.jpg)
+
 
 
 ### 接口
